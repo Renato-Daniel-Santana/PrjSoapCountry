@@ -2,10 +2,6 @@ package br.fatec.services;
 
 import br.fatec.models.Country;
 
-/*
- * CountryService.java
- */
-
 public class CountryService {
     
 	public CountryService(){

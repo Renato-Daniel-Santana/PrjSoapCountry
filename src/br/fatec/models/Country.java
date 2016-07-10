@@ -1,9 +1,5 @@
 package br.fatec.models;
 
-/*
- * Country.java
- */
-
 public class Country {
 
     String countryCode =null;
